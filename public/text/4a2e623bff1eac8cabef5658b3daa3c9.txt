@@ -1,0 +1,105 @@
+Andre Huaman Yovera
+Desarrollador Full Stack con experiencia en
+desarrollo de aplicaciones web y móviles
+Arica, Chile
+andre.yoveral@gmail.com +56 936159134 ⚫
+https://www.linkedin.com/in/andre-huaman-yovera-676199210/
+Sobre mí
+Con 3 años de experiencia en desarrollo de software, especializado en .NET
+Xamarin y soluciones web. Apasionado por liderar equipos eficazmente y
+crear un entorno propicio para el éxito. En constante crecimiento,
+explorando el campo de la Ciencia de Datos.
+Experiencia laboral
+OneUp-I
+Ingeniero en informática
+2021 Actual
+Ingeniero en informática con experiencia en el desarrollo de soluciones en
+.NET para aplicaciones móviles, web y de escritorio. Además, he
+participado activamente en proyectos de desarrollo de sistemas en Java
+para web scraping.
+RyM Ingenieros
+Desarrollador móvil Xamarin
+2022 2023
+Me centré en el desarrollo de aplicaciones móviles, especialmente en la
+integración y uso de Google Maps para aplicaciones tipo Indriver para
+mototaxis en Lima.
+Educación
+Universidad Santo Tomás
+Ingeniería en Informática
+Platzi
+2020 2023
+2021 -
+Actual
+Tecnología y Desarrollo
+Proyectos
+Atsa Airlines ⚫
+Plataforma de venta de
+boletos de vuelo.
+eFTR StarPeru ⚫
+•
+Sistema de bitácoras de
+vuelo para aviones.
+Sistema de Web
+Scraping para Datos
+de Farmacias ⚫
+•
+Sistema automatizado
+para recopilar datos
+de farmacias desde
+sitios web.
+Java
+Selenium
+.NET
+SQL Server
+C#
+.NET
+Xamarin
+C#
+.NET Web APIS
+Linux
+ASP.NET
+Web APIS
+SQLite
+SQL Server
+Python
+App Charter ATSA
+Airlines ⚫
+•
+Sistema de escritorio
+para la gestión de
+vuelos charter de ATSA
+Airlines, incluyendo
+reservas, check-
+in y valorizaciones
+de vuelos.
+Vamo.Pe
+Aplicación tipo Indriver
+para mototaxis en Lima.
+Platzi ⚫
+Plataforma educativa en
+línea para el
+aprendizaje de diversas
+habilidades tecnológicas
+y profesionales.
+.NET
+C#
+DevExpress
+.NET
+Xamarin
+SQL Server
+Google Maps
+Firebase
+Amplia variedad de cursos y
+especializaciones
+Enfoque en desarrollo web,
+ciencia de datos y más
+Skills
+JavaScript
+TypeScript
+React/Next.js
+React Native
+Node.js
+Xamarin
+.NET
+Java Python SQL Git
+Docker Tailwind
